@@ -1,0 +1,30 @@
+ ------------------------------------------------------------------------------------------------------------------------------------
+ jobincar                  GB04       6  SP11     LA02     BM02     ST01     BM08     LA20     
+ 
+ 
+ SP11       C      MARDI... 14:15-16:15,F1,S=FA200                                                              
+ 
+ LA02       D 1    MERCREDI  8:00-10:00,F1,S=FB214                                                              
+ LA02       T 2    VENDREDI  9:00-10:00,F1,S=FC104                                                              
+ 
+ BM02       C      VENDREDI 10:15-12:15,F1,S=FA212                                                              
+ BM02       D 1    LUNDI... 14:15-15:45,F1,S=FA212                                                              
+ BM02       T 2    VENDREDI 14:30-18:30,F2,S=RJ109                                                              
+ 
+ ST01       C      JEUDI... 14:15-16:15,F1,S=CI103                                                              
+ ST01       D 1    JEUDI... 16:15-18:15,F1,S=CI103                                                              
+ 
+ BM08       C      LUNDI... 10:15-12:15,F1,S=FA212                                                              
+ BM08       D 2    JEUDI... 10:15-12:15,F1,S=RI207                                                              
+ 
+ LA20       D 1    LUNDI... 16:30-18:00,F1,S=FC211                                                              
+ LA20       T 2    JEUDI... 12:30-14:00,F1,S=FC200                                                              
+ 
+
+
+
+
+
+
+ LE SERVICE des MOYENS d'ENSEIGNEMENT VOUS SOUHAITE BON COURAGE
+

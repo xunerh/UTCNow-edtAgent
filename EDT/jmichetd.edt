@@ -1,0 +1,29 @@
+ ------------------------------------------------------------------------------------------------------------------------------------
+ jmichetd                  GP06       6  TO01     SI14     EV01     NF24     TF14     TF08     
+ 
+ 
+ TO01       D 1    MARDI... 10:15-12:15,F1,S=FA414                                                              
+ 
+ SI14       D 1    LUNDI... 10:15-12:15,F1,S=FC114                                                              
+ SI14       T 2    MARDI... 18:45-19:45,F1,S=FC114                                                              
+ 
+ EV01       C      JEUDI...  8:00-10:00,F1,S=FA401                                                              
+ EV01       D 1    JEUDI... 10:15-12:15,F1,S=FA401                                                              
+ 
+ NF24       C      MARDI... 14:15-15:15,F1,S=FB216                                                              
+ NF24       D 1    MARDI... 15:15-18:15,F1,S=FB216                                                              
+ 
+ TF14       C      LUNDI...  8:00-10:00,F1,S=FA100                                                              
+ TF14       D 1    MERCREDI  8:00-10:00,F1,S=FA318                                                              
+ 
+ TF08       C      VENDREDI 10:15-12:15,F1,S=FA202                                                              
+ TF08       D 1    VENDREDI 14:15-16:15,F1,S=FA418                                                              
+ 
+
+
+
+
+
+
+ LE SERVICE des MOYENS d'ENSEIGNEMENT VOUS SOUHAITE BON COURAGE
+

@@ -50,7 +50,7 @@ for (i = 1; i < filenames.length; i++) {
 
 }
 
-// console.log(edts);
+console.log(edts);
 
 // console.log(edts.length);
 
